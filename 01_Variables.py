@@ -34,3 +34,10 @@ print(f"El número de taladros para una seccion de {a} * {b} es: {nt_a:.2f} tala
 print(f"El número de taladros para una seccion de {a} * {b} es: {nt_a:.0f} taladros.")
 
 print("Son:", nt_a, "taladros.")
+
+# Multiples variables en una línea
+
+mundo, alto, bajo = "hola", True, False 
+print(mundo)
+print(alto)
+print(bajo)
