@@ -32,3 +32,5 @@ nt_a = (p / 0.6) + (1.5 * c)
 print(f"El número de taladros para una seccion de {a} * {b} es: {nt_a} taladros.")
 print(f"El número de taladros para una seccion de {a} * {b} es: {nt_a:.2f} taladros.")
 print(f"El número de taladros para una seccion de {a} * {b} es: {nt_a:.0f} taladros.")
+
+print("Son:", nt_a, "taladros.")
