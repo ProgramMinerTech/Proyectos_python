@@ -55,3 +55,5 @@ print(lista)
 # Elimina el ultimo dato, y si colocas el print, te muestra lo que se eliminó
 print(lista.pop())
 print(lista.pop(2))
+
+print(lista[1:3])
